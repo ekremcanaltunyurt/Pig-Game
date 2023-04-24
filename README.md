@@ -16,4 +16,4 @@ This is a simple dice game that can be played with two players. The objective of
 -   The game tracks the score for each player and dynamically updates the game board.
 -   The game has a "New Game" button to reset the scores and start a new game.
 
-  `[Pig Game](https://eca-pig-game.netlify.app/)`
+  [Pig Game](https://eca-pig-game.netlify.app/)
